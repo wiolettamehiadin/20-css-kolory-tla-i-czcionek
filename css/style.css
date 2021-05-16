@@ -1,0 +1,43 @@
+body {
+    background-color: lavenderblush;
+}
+
+h1 {
+    background-color: lemonchiffon;
+}
+
+#paragraf1 {
+    background-color: lightblue;
+}
+
+h2 {
+    background-color: lightpink;
+}
+
+#paragraf2 {
+    background-color: palegoldenrod;
+}
+
+ol {
+    background-color: navajowhite;
+}
+
+#item1 {
+    color: purple;
+}
+
+#item2 {
+    color: red;
+}
+
+#item3 {
+    color: seagreen;
+}
+
+#item4 {
+    color: teal;
+}
+
+#item5 {
+    color: violet;
+}
